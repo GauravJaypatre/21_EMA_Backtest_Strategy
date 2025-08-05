@@ -41,3 +41,5 @@ Supports customization of target, stop-loss, and brokerage in code
 
 📫 Connect
 If you find this useful or would like to collaborate on future trading strategy projects, feel free to connect on LinkedIn or open an issue on the repo.
+
+NOTE:- THIS IS JUST A BACKTEST STRATEGY WHICH IS BASIC AND CAN BE USED FOR BACKTESTING ONLY. ITS NOT RECOMMENDED FOR LIVE TRADING.
